@@ -3,7 +3,7 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-13T22:16:04.026720948+06:00"
+    created: "2024-01-13T22:15:26.169413271+06:00"
     description: My First Helm Chart
     digest: 9be01b185935d00f9baa9b3488a28d98b80db61105604ba5a2b955b28e66bc97
     maintainers:
@@ -12,6 +12,6 @@ entries:
     name: nginx-chart
     type: application
     urls:
-    - https://kaium123.github.io/helm-chart1/nginx-chart-0.1.0.tgz
+    - https://kaium123.github.io/helm-chart1/charts/nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-13T22:16:04.026214637+06:00"
+generated: "2024-01-13T22:15:26.168879444+06:00"
